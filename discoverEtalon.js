@@ -1,4 +1,5 @@
-/* pg
+/* pg  index.html egyetlen js sora
+
 var pg = {
     // Application Constructor
     initialize: function() {
